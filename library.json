@@ -1,0 +1,37 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publication": "1925",
+        "genre": "Classic",
+        "read": "yes"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publication": "1960",
+        "genre": "Fiction",
+        "read": "no"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "publication": "1949",
+        "genre": "Dystopian",
+        "read": "yes"
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "publication": "1851",
+        "genre": "Adventure",
+        "read": "no"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publication": "1951",
+        "genre": "Coming-of-Age",
+        "read": "yes"
+    }
+]
