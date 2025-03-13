@@ -1,58 +1,37 @@
 [
     {
-        "title": "saj",
-        "author": "k",
-        "publication": "sk",
-        "genre": "kd",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publication": "1925",
+        "genre": "Classic",
+        "read": "yes"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publication": "1960",
+        "genre": "Fiction",
         "read": "no"
     },
     {
-        "title": "saif",
-        "author": "saif",
-        "publication": "saif",
-        "genre": "saif",
+        "title": "1984",
+        "author": "George Orwell",
+        "publication": "1949",
+        "genre": "Dystopian",
         "read": "yes"
     },
     {
-        "title": "lll",
-        "author": "lll",
-        "publication": "lll",
-        "genre": "lll",
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "publication": "1851",
+        "genre": "Adventure",
         "read": "no"
     },
     {
-        "title": "iffat",
-        "author": "iffat",
-        "publication": "iffat",
-        "genre": "iffat",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publication": "1951",
+        "genre": "Coming-of-Age",
         "read": "yes"
-    },
-    {
-        "title": "ll",
-        "author": "kk",
-        "publication": "ss",
-        "genre": "nn",
-        "read": "yes"
-    },
-    {
-        "title": "mm",
-        "author": "mm",
-        "publication": "mm",
-        "genre": "mm",
-        "read": "yes"
-    },
-    {
-        "title": "mm",
-        "author": "mm",
-        "publication": "mm",
-        "genre": "mm",
-        "read": "yes"
-    },
-    {
-        "title": "sajeel",
-        "author": "sajeel",
-        "publication": "sajeel",
-        "genre": "sajeel",
-        "read": "no"
     }
 ]
