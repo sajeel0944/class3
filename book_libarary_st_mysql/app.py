@@ -3,13 +3,14 @@ import pandas as pd
 import streamlit as st
 
 
-API_KEY_TOKEN = st.secrets["HOST_NAME"]
+HOST_NAME_SAVE = st.secrets["HOST_NAME"]
+DATADASE_PASSWORD_SAVE = st.secrets["DATADASE_PASSWORD"]
 # Database connection function
 def get_connection():
     conn = mysql.connector.connect(
-        host=f"{API_KEY_TOKEN}",
+        host=f"{HOST_NAME_SAVE}",
         user="root",
-        password="mt",
+        password=f"{DATADASE_PASSWORD_SAVE}",
         database="library_db"
     )
     return conn
